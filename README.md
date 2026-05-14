@@ -13,4 +13,5 @@ Encapsulamiento: Control de acceso mediante etiquetas:
 <img width="570" height="742" alt="image" src="https://github.com/user-attachments/assets/19fcada1-fc5e-4fc0-90b0-a5dbc36915d3" />
 
 El Constructor: Una función especial que se ejecuta automáticamente al crear un objeto. Es vital para asegurar que las variables internas (como un contador o estado) se inicialicen correctamente sin depender de llamadas externas.
+
 Escalabilidad: Definir una clase una vez permite instanciar múltiples objetos independientes (C1, C2, etc.), reduciendo drásticamente la duplicación de código y el uso de memoria en proyectos grandes.
